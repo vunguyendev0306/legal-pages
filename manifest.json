@@ -3,5 +3,10 @@
     "slug": "remote-ac",
     "name": "Remote AC",
     "updated_at": "2026-07-20T14:48:16+00:00"
+  },
+  {
+    "slug": "pray",
+    "name": "Pray",
+    "updated_at": "2026-07-24T02:13:36+00:00"
   }
 ]
