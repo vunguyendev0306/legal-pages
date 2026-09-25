@@ -13,5 +13,10 @@
     "slug": "ac-remote-universal",
     "name": "AC Remote Universal",
     "updated_at": "2026-09-06T14:21:00+00:00"
+  },
+  {
+    "slug": "sleep-tracker",
+    "name": "Sleep Tracker",
+    "updated_at": "2026-09-25T16:56:25+00:00"
   }
 ]
